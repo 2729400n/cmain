@@ -1,0 +1,48 @@
+# Binary files
+*.so
+*.exe
+*.lib
+*.dll
+*.ko
+*.o
+*.a
+*.obj
+*.pdb
+*.dylib
+*.dSYM
+*.dmg
+# Compiled source code
+*.class
+*.jar
+*.war
+# Backup files
+*.bak
+*.swp
+# Logs
+*.log
+# Temporary files
+*.tmp
+*.temp
+# IDE specific files
+*.idea/
+*.vscode/
+# System files
+.DS_Store
+# Python specific files
+*.pyc
+*.pyo
+__pycache__/
+# Node.js specific files
+node_modules/
+# Ruby specific files
+*.gem
+# Go specific files
+*.out
+# Rust specific files
+*.rlib
+# CMake specific files
+CMakeCache.txt
+CMakeFiles/
+# Os-specific files
+Thumbs.db
+*.db
